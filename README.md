@@ -1,4 +1,4 @@
-### prazer, sou Douglas! 👋
+### prazer, sou Douglas. Seja bem-vindo! 👋
 
  Me chamo Douglas, estou sempre em busca de aprofundar cada vez mais meus conhecimentos na área de TI.
  
